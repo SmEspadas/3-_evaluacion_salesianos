@@ -1,0 +1,10 @@
+//Programas sobre manejo de memoria
+#include<iostream>
+using namespace std;
+int main(){
+    int x=3;
+    int salir;
+    cout<<"x= "<<x;
+    cin>>salir;
+}
+//Este programa tiene como funcion guardar una variable x en la memoria RAM y posteriormente mostrar el valor al usuario remitente que est� usando el ordenador.
